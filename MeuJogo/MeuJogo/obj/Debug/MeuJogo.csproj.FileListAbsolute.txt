@@ -1,0 +1,7 @@
+C:\Users\Theo Araujo\Desktop\Private Theo\Dev Theo\C#1\MeuJogo\MeuJogo\bin\Debug\MeuJogo.exe.config
+C:\Users\Theo Araujo\Desktop\Private Theo\Dev Theo\C#1\MeuJogo\MeuJogo\bin\Debug\MeuJogo.exe
+C:\Users\Theo Araujo\Desktop\Private Theo\Dev Theo\C#1\MeuJogo\MeuJogo\bin\Debug\MeuJogo.pdb
+C:\Users\Theo Araujo\Desktop\Private Theo\Dev Theo\C#1\MeuJogo\MeuJogo\obj\Debug\MeuJogo.csproj.AssemblyReference.cache
+C:\Users\Theo Araujo\Desktop\Private Theo\Dev Theo\C#1\MeuJogo\MeuJogo\obj\Debug\MeuJogo.csproj.CoreCompileInputs.cache
+C:\Users\Theo Araujo\Desktop\Private Theo\Dev Theo\C#1\MeuJogo\MeuJogo\obj\Debug\MeuJogo.exe
+C:\Users\Theo Araujo\Desktop\Private Theo\Dev Theo\C#1\MeuJogo\MeuJogo\obj\Debug\MeuJogo.pdb
